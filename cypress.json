@@ -1,0 +1,8 @@
+{
+    "viewportHeight":900,
+    "viewportWidth":1400,
+    "defaultCommandTimeout":60000,
+    "pageLoadTimeout":120000,
+    "requestTimeout": 45000,
+    "baseUrl": "https://store.luminskin.com/products"
+}
